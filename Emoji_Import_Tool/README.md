@@ -29,7 +29,7 @@ db_config = {
    'user': '',
    'host': 'localhost',
    'password': '',
-   'database': 'practicumdb'
+   'database': 'covid_emoji_proj'
 }
 ```
 
